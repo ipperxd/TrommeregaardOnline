@@ -1,0 +1,6 @@
+@Trommeregaard.API_HostAddress = http://localhost:5181
+
+GET {{Trommeregaard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
